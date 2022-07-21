@@ -44,7 +44,6 @@ export default function Home() {
             width="200"
             height="200"
           />
-
           <h4><b>Queen Idyia</b></h4>
         </div>
       </div>

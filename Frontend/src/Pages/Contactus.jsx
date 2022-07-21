@@ -10,13 +10,11 @@ export default function Contactus() {
 
 <div className="body">
 
-< /Navbar>
-
-    <h2>
-      Contact the Royal Kingdom
-    </h2>
+<Navbar></Navbar>
 
     <section id="contact">
+    <h2>Contact the Royal Kingdom</h2>
+
       <form id="contactForm">
         <label for="name"><b>Name</b></label
         ><br />
