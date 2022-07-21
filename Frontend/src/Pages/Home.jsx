@@ -12,7 +12,7 @@ export default function Home() {
 
 <Navbar></Navbar>
 
-    <section class="”container”" id="Hero">
+    <section class="container" id="Hero">
       <h1>
         Welcome to the Royal Kingdom of Colchis
       </h1>

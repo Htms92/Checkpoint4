@@ -15,7 +15,7 @@ export default function Home() {
       The Kingdom's Royal Assets
     </h2>
 
-    <section class="”container”" id="table">
+    <section class="container" id="table">
       <table class="center">
         <thead id="head">
           <tr>
@@ -70,7 +70,6 @@ export default function Home() {
         </tbody>
       </table>
     </section>
-
 
 </div>
 );

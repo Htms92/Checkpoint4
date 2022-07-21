@@ -12,7 +12,7 @@ export default function Home() {
 
 <Navbar></Navbar>
 
-<section class="”container”">
+<section class="container">
       <h2>The Royal Family</h2>
 
       <div class="flex-container">
