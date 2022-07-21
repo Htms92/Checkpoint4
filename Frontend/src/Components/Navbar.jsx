@@ -8,20 +8,20 @@ export default function Navbar() {
     return (
 
         <section class="container" id="Navigation">
-      <img src="assets/crown.jpg" alt="Logo" class="logo" />
+      <img src="Assets/crown.jpg" alt="Logo" class="logo" />
 
       <ul>
         <li>
-          <a href="index.html"><b>Home</b></a>
+          <a href="Home.jsx"><b>Home</b></a>
         </li>
         <li>
-          <a href="royalfamily.html"><b>Royal Family</b></a>
+          <a href="Royalfamily.jsx"><b>Royal Family</b></a>
         </li>
         <li>
-          <a href="royalassets.html"><b>Royal Assets</b></a>
+          <a href="Royalassets.jsx"><b>Royal Assets</b></a>
         </li>
         <li>
-          <a href="contactus.html"><b>Contact Us</b></a>
+          <a href="Contactus.jsx"><b>Contact Us</b></a>
         </li>
       </ul>
     </section>
